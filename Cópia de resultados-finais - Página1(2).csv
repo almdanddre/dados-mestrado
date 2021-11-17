@@ -1,0 +1,13 @@
+Resolução,Tipo de Erro,Frequência
+Usual,Knowledge,6
+Usual,Rule,1
+Usual,Skill,14
+Usual,Rule and Skill,5
+TDD,Knowledge,6
+TDD,Rule,0
+TDD,Skill,14
+TDD,Rule and Skill,4
+Oraculo,Knowledge,6
+Oraculo,Rule,1
+Oraculo,Skill,4
+Oraculo,Rule and Skill,12
