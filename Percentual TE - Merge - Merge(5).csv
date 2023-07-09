@@ -1,0 +1,25 @@
+Aluno,Tipo de erro 1,Tipo de erro 2,TE,Taxa da Erro
+1,Regra,,"0,25",0.25
+2,Regra,Habilidade,"0,88",0.88
+3,Habilidade,,"0,50",0.5
+4,Regra,,"1,00","1,00"
+5,Regra,,"1,00","1,00"
+6,Regra,,"0,75",0.75
+8,Regra,,"0,50",0.50
+10,Regra,Habilidade,"0,63",0.63
+11,Regra,,"0,88",0.88
+13,Regra,,"0,75",0.75
+14,Regra,,"0,88",0.88
+15,Regra,,"0,38",0.38
+16,Regra,Conhecimento,"1,00","1,00"
+19,Regra,,"0,63",0.63
+20,Regra,,"1,00","1,00"
+21,Regra,,"0,88",0.88
+22,Regra,,"1,00","1,00"
+23,Regra,,"0,63",0.63
+24,Regra,,"0,75",0.75
+25,Regra,,"0,50",0.5
+26,Regra,,"0,38",0.38
+27,Regra,,"0,38",0.38
+28,Regra,,"0,88",0.88
+29,Regra,,"0,13",0.13
